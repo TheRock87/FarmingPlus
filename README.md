@@ -1,6 +1,7 @@
 # FarmingPlus
 # 🌱 Farming+: Aeroponic Vertical Greenhouse using IoT
 Automating urban agriculture through IoT sensors, edge intelligence, and environmental control algorithms.
+
 <img src="https://github.com/TheRock87/FarmingPlus/assets/72885778/c642f76f-d487-4041-bc9f-7caf9922e597" width="250" height="300">
 <img src="https://github.com/TheRock87/FarmingPlus/assets/72885778/498ea0ec-59c2-4d99-a719-ae56b453463a" width="250" height="300">
 
