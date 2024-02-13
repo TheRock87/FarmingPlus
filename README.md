@@ -1,7 +1,9 @@
 # FarmingPlus
 # 🌱 Farming+: Aeroponic Vertical Greenhouse using IoT
 Automating urban agriculture through IoT sensors, edge intelligence, and environmental control algorithms.
-<img src="[https://github.com/TheRock87/FarmingPlus/assets/72885778/c642f76f-d487-4041-bc9f-7caf9922e597]" width="250" height="250">
+<img src="https://github.com/TheRock87/FarmingPlus/assets/72885778/c642f76f-d487-4041-bc9f-7caf9922e597" width="250" height="300">
+<img src="https://github.com/TheRock87/FarmingPlus/assets/72885778/498ea0ec-59c2-4d99-a719-ae56b453463a" width="250" height="300">
+
 
 ## ✨ Overview
 This project implements a fully automated, self-regulating aeroponic vertical greenhouse system leveraging technologies like:
@@ -20,6 +22,10 @@ This project implements a fully automated, self-regulating aeroponic vertical gr
 - JSON encoding of sensor data for serialization and transmission to cloud and between the microcontrollers
 - Local control for real-time response, cloud for big data capabilities
 - Modular IoT framework built on PlatformIO adaptable across scales
+
+![Block diagram_new](https://github.com/TheRock87/FarmingPlus/assets/72885778/9132b50f-4267-41cf-849e-ab579bbb5c25)
+
+
 ## 🌱 Outcomes
 - 5x density compared to traditional farming
 - 50% higher yields using vertical space efficiently
@@ -28,9 +34,12 @@ This project implements a fully automated, self-regulating aeroponic vertical gr
 - 24/7 monitoring and control from anywhere through modern cloud dashboards
 - This smart agricultural solution paves the way toward sustainable urban farming!
 
+![Dashboard](https://github.com/TheRock87/FarmingPlus/assets/72885778/526f899e-2136-45aa-be74-766d0aaa3099)
+![PerfectPrototype](https://github.com/TheRock87/FarmingPlus/assets/72885778/c5490381-a4d3-428f-900f-bdd6b6484c96)
 ## 🚜 Getting Started
 ### Hardware
-- Arduino Due
+- Arduino Due ARM Cortex M3
+- Node MCU ESP8266
 - BME680 Sensor
 - BH1750 Sensor
 - etc...
